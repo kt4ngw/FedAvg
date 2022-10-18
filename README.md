@@ -14,7 +14,7 @@ The implementation is pytorch.</font>
 <font face="Consolas">run the **main.py**. </font>
 
 
-## <font face="Consolas">2 how to change</font> 
+## <font face="Consolas">3 how to change</font> 
 
 <font face="Consolas">if you want check the default data, you can change the **getData.py**.
 And if you want change the model in Federated Learning, you just need to change the **net.py** in the model folder.
