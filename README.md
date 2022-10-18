@@ -2,7 +2,7 @@
 
 ## <font face="Consolas">1 Introduce</font> 
 
-<font face="Consolas">This repository records the algorithm for federated average algorithm.
+<font face="Consolas">This repository records the algorithm for federated average.
 
 The implementation is pytorch.</font> 
 
